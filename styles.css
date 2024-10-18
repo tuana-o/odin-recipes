@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(0, 0%, 100%);
+    font-family: Georgia, Verdana, sans-serif;
+    text-align: center;
+}
+
+div{
+    transform: scale(0.4);
+    margin-top: -135px;
+}
+
+ul{
+    font-size: 24px;
+    list-style-type: none;
+    text-indent: -30px;
+}
+
+ul li{
+    margin-bottom: 10px;
+}
